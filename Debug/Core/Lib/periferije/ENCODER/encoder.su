@@ -1,0 +1,11 @@
+../Core/Lib/periferije/ENCODER/encoder.c:42:6:HAL_TIM_IC_CaptureCallback1	16	static
+../Core/Lib/periferije/ENCODER/encoder.c:48:6:HAL_TIM_IC_CaptureCallback2	16	static
+../Core/Lib/periferije/ENCODER/encoder.c:54:6:encoder_tim3_dir	4	static
+../Core/Lib/periferije/ENCODER/encoder.c:62:6:encoder_tim4_dir	4	static
+../Core/Lib/periferije/ENCODER/encoder.c:70:10:read_cnt_tim4	4	static
+../Core/Lib/periferije/ENCODER/encoder.c:73:10:read_cnt_tim3	4	static
+../Core/Lib/periferije/ENCODER/encoder.c:77:9:read_stanje_enkodera_tim4	16	static
+../Core/Lib/periferije/ENCODER/encoder.c:86:9:read_stanje_enkodera_tim3	16	static
+../Core/Lib/periferije/ENCODER/encoder.c:132:6:sens_robot	24	static
+../Core/Lib/periferije/ENCODER/encoder.c:222:7:get_brzina_levog_pasivnog	4	static
+../Core/Lib/periferije/ENCODER/encoder.c:227:7:get_brzina_desnog_pasivnog	4	static

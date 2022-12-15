@@ -1,0 +1,2 @@
+../Core/Lib/periferije/TIM11/tim11.c:28:1:tim5_init	4	static
+../Core/Lib/periferije/TIM11/tim11.c:51:1:TIM5_IRQHandler	8	static

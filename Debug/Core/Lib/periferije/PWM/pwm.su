@@ -1,0 +1,11 @@
+../Core/Lib/periferije/PWM/pwm.c:70:6:pid_init	4	static
+../Core/Lib/periferije/PWM/pwm.c:88:6:faktor_ispune_napred	16	static
+../Core/Lib/periferije/PWM/pwm.c:99:6:medju_stanje	4	static
+../Core/Lib/periferije/PWM/pwm.c:103:6:faktor_ispune_t1_smer1	16	static
+../Core/Lib/periferije/PWM/pwm.c:108:6:faktor_ispune_t1_smer2	16	static
+../Core/Lib/periferije/PWM/pwm.c:113:6:faktor_ispune_t2_smer2	16	static
+../Core/Lib/periferije/PWM/pwm.c:119:6:faktor_ispune_t2_smer1	16	static
+../Core/Lib/periferije/PWM/pwm.c:124:6:faktor_ispune_nazad	16	static
+../Core/Lib/periferije/PWM/pwm.c:137:6:pokreni_traku	16	static
+../Core/Lib/periferije/PWM/pwm.c:154:6:regulacija_ugla	8	static
+../Core/Lib/periferije/PWM/pwm.c:215:6:regulacija	24	static
